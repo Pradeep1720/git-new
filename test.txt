@@ -1,2 +1,2 @@
 this is fist adding line after commit.
-after long time change
+after long time change!
