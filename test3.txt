@@ -1,4 +1,11 @@
 this is frist branch
 modify the frist branch
 now again modify..
+<<<<<<< HEAD
 modify for rebasing#
+=======
+<<<<<<< HEAD
+modify for rebasing
+=======
+>>>>>>> Revert "hcl interview"
+>>>>>>> Revert "hcl interview"
